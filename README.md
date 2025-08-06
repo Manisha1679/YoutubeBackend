@@ -35,5 +35,5 @@ A full-featured backend for a YouTube-like video platform. Built with Node.js, E
 - npm install  
 - npm run dev   
 
-
+### All the api endpoints have been successfully tested on Postman
 
